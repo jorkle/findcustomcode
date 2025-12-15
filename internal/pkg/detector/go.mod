@@ -1,3 +1,3 @@
-module github.com/jorkle.com/findcustomcode/internal/pkg/detector
+module github.com/jorkle/findcustomcode/internal/pkg/detector
 
 go 1.25.5
